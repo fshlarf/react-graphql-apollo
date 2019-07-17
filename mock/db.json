@@ -1,0 +1,7 @@
+{
+  "posts":  [
+    { "id": 1, "author": "John Doe", "body": "Hello world" },
+    { "id": 2, "author": "Jane Doe", "body": "Hi, planet!" },
+    { "id": 3, "author": "Johan Doe", "body": "Dear, Mars!" }
+  ]
+}
